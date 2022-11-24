@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+        
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.container {
+    width: 80%;
+}
+
+#header {
+    padding-top: 3%;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.card-title, h3 {
+    font-weight: 600;
+}
